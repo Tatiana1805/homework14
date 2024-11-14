@@ -1,0 +1,9 @@
+a {
+    font-size: 1.5em;
+}
+
+.container {
+    max-width: 500px;
+    display: flex;
+    gap: 20px;
+}

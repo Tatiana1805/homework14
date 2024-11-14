@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    margin: 30px auto;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    gap: 37px;
+}
+
+.arrImg {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    flex-wrap: wrap;
+}
+
+.technology {
+    background: linear-gradient(90deg, #13B0F5 -2.06%, #E70FAA 100%);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 3em;
+}
+
+.icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.p {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+@media(max-width: 750px){
+    .container {
+        gap: 15px;
+    }
+
+    .p {
+        font-size: 1em;
+    }
+}
+
+@media(max-width: 475px) {
+    .technology {
+        font-size: 2em;
+    }
+
+    .p {
+        font-size: 0.7em;
+    }
+}

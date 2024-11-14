@@ -1,0 +1,32 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Магазин одежды и аксессуаров",
+            "info": "Для данного интернет-магазина использовался Fake Store API",
+            "icon": "/src/assets/imgProjects/moda.jpg",
+            "code": "https://github.com/Tatiana1805/homework10/tree/main/homework10"
+        },
+        {
+            "id": 2,
+            "name": "Блог о туризме",
+            "info": "Создание интернет магазина с использованием семантики. А также адаптация на разные разрешения экрана.",
+            "icon": "/src/assets/imgProjects/blogMNTN.jpg",
+            "code": "https://github.com/Tatiana1805/homework7"
+        },
+        {
+            "id": 3,
+            "name": "Новостная лента",
+            "info": "Создание страницы новостей с использованием ESLint, Webpack для работы с TypeScript.",
+            "icon": "/src/assets/imgProjects/news.jpg",
+            "code": "https://github.com/Tatiana1805/homework12"
+        },
+        {
+            "id": 4,
+            "name": "История frontend-разработки",
+            "info": "Данная работа является первым ознакомлением с HTML и CSS. На 1 странице находится мое пробное портфолио, а на 2 история frontend-разработки",
+            "icon": "/src/assets/imgProjects/portfolioHistory.jpg",
+            "code": "https://github.com/Tatiana1805/homework3"
+        }
+    ]
+}

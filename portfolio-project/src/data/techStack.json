@@ -1,0 +1,34 @@
+{
+    "technology": [
+        {
+            "id": 1,
+            "name": "HTML5",
+            "icon": "/src/assets/icon/html.svg"
+        },
+        {
+            "id": 2,
+            "name": "CSS",
+            "icon": "/src/assets/icon/css.svg"
+        },
+        {
+            "id": 3,
+            "name": "JavaScript",
+            "icon": "/src/assets/icon/js.svg"
+        },
+        {
+            "id": 4,
+            "name": "React",
+            "icon": "/src/assets/icon/react.svg"
+        },
+        {
+            "id": 5,
+            "name": "GitHub",
+            "icon": "/src/assets/icon/github.svg"
+        },
+        {
+            "id": 6,
+            "name": "VScode",
+            "icon": "/src/assets/icon/vscode.svg"
+        }
+    ]
+}

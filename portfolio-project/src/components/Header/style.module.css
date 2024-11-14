@@ -1,0 +1,24 @@
+.container{
+    width: 100%;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+@media(max-width: 750px) {
+    nav a {
+        font-size: 1em;
+    }
+}
+
+@media(max-width: 320px) {
+    nav a{
+        display: none;
+    }
+
+    .container {
+        height: 20px;
+        padding-top: 10px;
+    }
+}

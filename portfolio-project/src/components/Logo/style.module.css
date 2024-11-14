@@ -1,0 +1,10 @@
+.container {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: xx-large;
+}
+@media(max-width: 475px) {
+    .container {
+        font-size: medium;
+    }
+}
